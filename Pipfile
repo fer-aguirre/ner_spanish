@@ -11,6 +11,10 @@ pathlib = "*"
 pandas = "*"
 numpy = "*"
 plotly = "*"
+spacy = "*"
+stanza = "*"
+transformers = "*"
+gensim = "*"
 
 [dev-packages]
 
